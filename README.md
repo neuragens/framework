@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c7cec32f-8953-4bca-a877-699c696e72f6" width="200px" alt="NeuraGens Logo" style="max-width: 100%" />
+<img src="https://github.com/user-attachments/assets/22ba3d37-48ec-4f9d-9b61-ed25580bc808" width="200px" alt="NeuraGens Logo" style="max-width: 100%" />
 </div>
 
 # About NeuraGens
