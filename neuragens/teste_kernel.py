@@ -6,6 +6,8 @@ from neuragens.ui.streamlit.streamlit_plugin import StreamlitPlugin
 from neuragens.ui.streamlit.streamlit_listener import streamlit_listener
 
 def main():
+    #https://github.com/mbrav/design_patterns_python
+
     kernel = Kernel()
     module_loader = ModuleLoader(kernel)
 
